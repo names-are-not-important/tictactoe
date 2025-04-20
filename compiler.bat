@@ -1,0 +1,1 @@
+g++ .\src\tictactoe.cpp -o ./bin/tictactoe.exe -static-libgcc -static-libstdc++ -lmingw32 -s -Wall -Waggressive-loop-optimizations -flto -O2
